@@ -57,11 +57,11 @@ COLUMN DESCRIPTIONS:
 
 10. north_cs
     - Centred and scaled latitudinal coordinate used in the models.
-    - Format: Numeric.
+    - Format: Numeric (Decimal).
 
 11. time_year
     - Temporal variable representing the year of the haul (2011–2019).
-    - Format: Numeric (Decimal).
+    - Format: Numeric.
 
 12. catch_kg
     - Weight of the target species caught in the single haul.
