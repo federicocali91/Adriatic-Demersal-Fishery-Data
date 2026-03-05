@@ -61,7 +61,7 @@ COLUMN DESCRIPTIONS:
 
 11. time_year
     - Temporal variable representing the year of the haul (2011–2019).
-    - Format: Integer (YYYY).
+    - Format: Numeric (Decimal).
 
 12. catch_kg
     - Weight of the target species caught in the single haul.
