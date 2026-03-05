@@ -57,7 +57,7 @@ COLUMN DESCRIPTIONS:
 
 10. north_cs
     - Centred and scaled latitudinal coordinate used in the models.
-    - Format: Numeric (Decimal).
+    - Format: Numeric.
 
 11. time_year
     - Temporal variable representing the year of the haul (2011–2019).
